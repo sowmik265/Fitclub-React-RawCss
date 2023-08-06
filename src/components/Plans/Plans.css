@@ -65,10 +65,10 @@
     width: 1rem;
 }
 
-.plans>:nth-child(2)>svg{
+.plans>:nth-child(2)>svg {
     fill: white;
 }
 
-.plans>:nth-child(2)>button{
+.plans>:nth-child(2)>button {
     color: orange;
 }
